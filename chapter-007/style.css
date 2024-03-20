@@ -1,0 +1,16 @@
+/* #box{
+    height:350px;
+    width:200px;
+    background-color:crimson;
+    color:blue;
+    border:1px solid black;
+} */
+
+.paraClass{
+    color:red;
+}
+
+.newclass{
+    background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
